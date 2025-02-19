@@ -79,6 +79,7 @@ pallet-xcm-core-buyer-runtime-api = { path = "pallets/xcm-core-buyer/runtime-api
 
 container-chain-template-frontier-runtime = { path = "chains/container-chains/runtime-templates/frontier", default-features = false }
 container-chain-template-simple-runtime = { path = "chains/container-chains/runtime-templates/simple", default-features = false }
+container-chain-template-hous3-runtime = { path = "chains/container-chains/runtime-templates/hous3", default-features = false }
 
 dancebox-runtime = { path = "chains/orchestrator-paras/runtime/dancebox", default-features = false }
 flashbox-runtime = { path = "chains/orchestrator-paras/runtime/flashbox", default-features = false }
